@@ -3,9 +3,6 @@
   "version": "1.1.1",
   "description": "My personal eslint config for node & react",
   "main": "base.js",
-  "scripts": {
-    "publish": "npm version minor; npm publish"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sturmenta/eslint-config.git"
