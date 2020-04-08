@@ -2,7 +2,7 @@
 
 My personal eslint config for node and react
 
-## Steps to use in node or react combination with prettier
+## Steps to use in node or react in combination with prettier
 
 1. Install the dependencies as dev dependencies:
 
@@ -12,7 +12,7 @@ yarn add -D eslint eslint-config-sturmenta prettier
 
 ---
 
-(the following points 2,3 & 4, has to be the root folder that opens with the editor)
+(the following points 2, 3 & 4, has to be in the root folder that opens with the editor)
 
 ---
 
