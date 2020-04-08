@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-sturmenta",
+  "version": "1.0.0",
+  "description": "My personal eslint config for node & react",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturmenta/eslint-config.git"
+  },
+  "author": "sturmenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sturmenta/eslint-config/issues"
+  },
+  "homepage": "https://github.com/sturmenta/eslint-config#readme",
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0"
+  }
+}
