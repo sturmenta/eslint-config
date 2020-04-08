@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sturmenta",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "My personal eslint config for node & react",
   "main": "base.js",
   "repository": {
